@@ -97,15 +97,15 @@
 # 数据结构与算法
 
 + 剑指offer  [百度云下载链接](https://pan.baidu.com/s/1kkNoZCksgU96t5bn8VQ_CA) 提取码：waaj
-+ 编程珠玑中英版
-+ 计算机程序设计艺术1-3卷 
-+ 数据结构与算法 （包含C、Java、Python语言描述共三本） 
-+ 啊哈算法 
-+ 编程之美 
-+ 大话数据结构   
-+ 算法（第四版）  
-+ 算法导论 （第三版）   
-+ 算法图解   
++ 编程珠玑中英版  [百度云下载链接](https://pan.baidu.com/s/1jzeKxjXBKTfD3edSAUs2mQ)   提取码：4nau
++ 计算机程序设计艺术1-3卷  [百度云下载链接](https://pan.baidu.com/s/16sH9L2yBtqcR1NT-WeQB1g)   提取码：zkax 
++ 数据结构与算法 （包含C、Java、Python语言描述共三本）  [百度云下载链接](https://pan.baidu.com/s/1hArs9mWECthM6M_-5Cn-hg )   提取码：olog
++ 啊哈算法  [百度云下载链接](https://pan.baidu.com/s/1jmQoTitUs91ZITcGLcGbgA)  提取码：rapu 
++ 编程之美  [百度云下载链接](https://pan.baidu.com/s/1WDehUm9Pv-oCoPCUeSoM9Q)  提取码：zcjp
++ 大话数据结构    [百度云下载链接](https://pan.baidu.com/s/1sonYkuTWeMNSiH4c6VvBXg)   提取码：vlt4 
++ 算法（第四版）   [百度云下载链接](https://pan.baidu.com/s/1dqhyKaCtfNtgvGJVaJn8zg)   提取码：8pa1
++ 算法导论 （第三版）    [百度云下载链接](https://pan.baidu.com/s/1NNE15yd8VFumHzXIHm2gDg)   提取码：1riq
++ 算法图解    [百度云下载链接](https://pan.baidu.com/s/1P8KT3rGgf_CWSFme3Dn60g)   提取码：vuif
 
 
 
@@ -128,15 +128,15 @@
 ## Java进阶
 
 + 实战Java虚拟机 [百度云下载链接](https://pan.baidu.com/s/1T3HZE0Z4eQWxymoxukDTgg)  提取码：bl6e
-+ 深入理解Java虚拟机（第二版）   
-+ Effective Java （中文第二版） 
-+ Effective Java （英文文第二版）  
-+ 敏捷软件开发  
-+ 代码整洁之道  
-+ 代码大全 （第二版）  
-+ 阿里巴巴Java开发手册 (终极版) 
-+ Java性能优化权威指南  
-+ Java性能权威指南 
++ 深入理解Java虚拟机（第二版）    [百度云下载链接](https://pan.baidu.com/s/11ig3TSZXWc6ZLkzqk-xCaw )  提取码：hwy8 
++ Effective Java （中文第二版）  [百度云下载链接](https://pan.baidu.com/s/1BTNQDtsk2aVD2QQ5B5cywA )   提取码：jaq2 
++ Effective Java （英文文第二版）   [百度云下载链接](https://pan.baidu.com/s/1-pnN3AVj6G57kXlRLaerCQ )   提取码：8p43 
++ 敏捷软件开发   [百度云下载链接](https://pan.baidu.com/s/1dPUpsoA-jt4ENIBzVuP6Xg)   提取码：vrqr
++ 代码整洁之道   [百度云下载链接](https://pan.baidu.com/s/1ZYO5taE3EPo7IlIp6T_oNQ)  提取码：ozet
++ 代码大全 （第二版）   [百度云下载链接](https://pan.baidu.com/s/1bmWXBLmIyCNgpwmXyQDYjQ)   提取码：vjkc 
++ 阿里巴巴Java开发手册 (终极版)  [百度云下载链接](https://pan.baidu.com/s/17fFRICkF0f1tNoxT2X636g)   提取码：6je7
++ Java性能优化权威指南   [百度云下载链接](https://pan.baidu.com/s/17KfN-_ozx3Sb4vRtRDNfkQ)   提取码：4ul7
++ Java性能权威指南  [百度云下载链接](https://pan.baidu.com/s/1qeWj7rkCNGb9blTj598Vyw )   提取码：ywc7 
 
 
 
@@ -155,27 +155,27 @@
 # 数据库
 
 + 高性能mysql（第三版）  [百度云下载链接](https://pan.baidu.com/s/1IvZK4gxQSjpLadYDPZ5-mA) 提取码：k0os 
-+ MongoDB权威指南  
-+ MySQL必知必会  
-+ MySQL高性能书籍（中文第3版） 
-+ MySQL技术内幕  InnoDB存储引擎  （第二版）  
-+ SQLite 权威指南 
-+ SQL查询的艺术 
-+ 深入浅出MySQL (第二版) 
++ MongoDB权威指南   [百度云下载链接](https://pan.baidu.com/s/1EOsRwg6GB8kvTsjuRttugA) 提取码：n80t 
++ MySQL必知必会   [百度云下载链接](https://pan.baidu.com/s/1eamNfid7ldCXiG3DvhGXSg)  提取码：ugak
++ MySQL高性能书籍（中文第3版） [百度云下载链接](https://pan.baidu.com/s/1fNKZM8jY8AMcfd7y1cWOoA )  提取码：ua96
++ MySQL技术内幕  InnoDB存储引擎  （第二版）   [百度云下载链接](https://pan.baidu.com/s/1B9bPE-j_CLo9BgJ7tWj3jA )  提取码：uc0e
++ SQLite 权威指南  [百度云下载链接](https://pan.baidu.com/s/1fKpv0SNgF2H2uxbCJhqL8g)  提取码：mypy
++ SQL查询的艺术  [百度云下载链接](https://pan.baidu.com/s/1zvdrWNBbTuZLpOEODAiKrw)  提取码：qh4z
++ 深入浅出MySQL (第二版)  [百度云下载链接](https://pan.baidu.com/s/1BzKoFuXwRdvF4COdAtyh0w) 提取码：tkvb
 
 
 
 # Linux
 
 + 鸟哥的Linux私房菜（基础篇和服务器篇） [百度云下载链接](https://pan.baidu.com/s/1HFdqe4USw_gZ8w851FXvKg )  提取码：j03v
-+ Linux命令详解词典 
-+ Linux宝典 
-+ Linux常用命令大全 
-+ LINUX防火墙（第三版） 
-+ Linux高级程序设计（中文第三版）   
-+ Linux环境编程 
-+ 汇编语言基于linux环境（第三版） 
-+ 深入Linux内核架构 (图灵程序设计丛书) 
++ Linux命令详解词典  [百度云下载链接](https://pan.baidu.com/s/1hkg_k2aHW-DnbDw4Dyf7Ig)  提取码：ui7e
++ Linux宝典  [百度云下载链接](https://pan.baidu.com/s/1mtWe5Gfrkk3JHQEwb8BBbA)  提取码：lm7h 
++ Linux常用命令大全  [百度云下载链接](https://pan.baidu.com/s/1FJLGkBu990tVFWnEAwLLsg)  提取码：uu0k
++ LINUX防火墙（第三版）  [百度云下载链接](https://pan.baidu.com/s/1-9IyGvDN8W_NrMMNjM1rHg)  提取码：a1zp 
++ Linux高级程序设计（中文第三版）    [百度云下载链接](https://pan.baidu.com/s/1T-3AH3P5C1h-0sXTzKX17g )  提取码：ute4
++ Linux环境编程  [百度云下载链接](https://pan.baidu.com/s/1uj1rp8Et2dFbnsFnyAqb1Q)  提取码：vqp9
++ 汇编语言基于linux环境（第三版）  [百度云下载链接](https://pan.baidu.com/s/1fBXiZK1x1g_P1V2LdJeWHw )  提取码：85hu
++ 深入Linux内核架构 (图灵程序设计丛书)  [百度云下载链接](https://pan.baidu.com/s/1wHfWQnVglUvxGegNAiwLkw )  提取码：efue
 
 
 
